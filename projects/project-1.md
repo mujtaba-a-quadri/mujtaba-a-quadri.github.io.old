@@ -21,7 +21,7 @@ I wrote most of the actual code for this project, including the game logic (I wr
 I learned a lot from this experience as it was my first time working in a group setting for a programming project (besides crypto clicker which required less coordination due to its simple nature). I learned that it is quite difficult to work on the same file/code if things are not explained well (such as with bad commenting). I learned how important communication is for figuring out the big picture on a project and how everyone's pieces will fit together. 
 
 Link to github repository coming soon!
-//You can see the code on this github repository: [Cupcake game code on github](link).
+
 
 
 

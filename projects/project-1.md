@@ -12,9 +12,7 @@ labels:
 summary: My team of 3 developed a microgame for our ICS 111 final project.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/cupcake-game.png">
-</div>
+<img class="ui medium right floated rounded image" src="../images/cupcake-game.png">
 
 This is a game
 

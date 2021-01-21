@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Mujtaba Quadri",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://techfolios.github.io/images/mujtaba-a-quadri.PNG",
+    "email": "mujtabaq@hawaii.edu",
+    "phone": "808-800-6709",
+    "website": "https://mujtaba-a-quadri.github.io",
+    "summary": "I am a sophomore studying for a B.S. in Computer Science specializing in Data Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in the Spring of 2023.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,41 +17,29 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "mujtaba-a-quadri",
+        "url": "http://github.com/mujtaba-a-quadri"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Mujtaba Quadri",
+        "url": "https://www.linkedin.com/in/mujtaba-quadri/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Website Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Data Management",
       "keywords": [
       ]
     }

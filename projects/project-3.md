@@ -21,4 +21,6 @@ I would say both of us did a roughly equal amount of work. The pastebin with the
 
 This project taught me what building something in a framework is like. Before making this project, I had never worked with any sort of framework/engine. I learned how helpful it can be to work with others and not build things from scratch. Me and my friend both contributed ideas to this project and that was very helpful, as making all the ideas would be difficult for one person. 
 
-[Play the game yourself!](http://orteil.dashnet.org/experiments/idlegamemaker/?game=cLtYXVH0)||[See the pastebin source code](https://pastebin.com/cLtYXVH0/)
+[Play the game yourself!](http://orteil.dashnet.org/experiments/idlegamemaker/?game=cLtYXVH0)
+||
+[See the pastebin source code](https://pastebin.com/cLtYXVH0/)

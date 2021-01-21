@@ -15,7 +15,7 @@ labels:
 summary: The ISEC Society is a non-profit journal whose website I currently work on.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/isec-home">
+<img class="ui medium right floated rounded image" src="../images/isec-home.png">
 
 In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage
 

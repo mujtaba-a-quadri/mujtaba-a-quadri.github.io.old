@@ -14,7 +14,6 @@ summary: My team of 3 developed a microgame for our ICS 111 final project.
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/cupcake-game.png">
-  <img class="ui image" src="images/cupcake-game.png">
 </div>
 
 This is a game

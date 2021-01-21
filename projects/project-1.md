@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/cupcake-game.png
 title: Cupcake Game
-permalink: projects/micromouse
+permalink: projects/cupcake
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-06
 labels:
@@ -14,7 +14,9 @@ summary: My team of 3 developed a microgame for our ICS 111 final project.
 
 <img class="ui medium right floated rounded image" src="../images/cupcake-game.png">
 
-This is a game
+For our final project in ICS 111, we were tasked with building a game that incorporated elements of what we learned throughout the semester. It is made in java and uses the EZ.java library to incorporate graphics and sound. The gameplay consists of constantly rising platforms that carry your character to the top of the screen and get faster as more stars are collected. Allowing the platforms to make your character touch the top of the screen will result in a game over. The goal is to maneuver between the gaps in the platforms and fall to the bottom of the screen, ideally after collecting all of the stars for the "true ending". 
+
+I wrote most of the actual code for this project, including the game logic (I wrote the MainProgram file). This includes the collision, left-and-right looping screen (think Pac-Man), gravity effect, and the game's mechanic of speeding up as more stars are collected. One element I worked on that I think turned out particularly well was the parallax effect created with the background and foreground, and how it is 
 
 You can see the code on this github repository: [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 

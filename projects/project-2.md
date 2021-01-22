@@ -14,12 +14,8 @@ labels:
   - GitHub
 summary: The ISEC Society is a non-profit journal whose website I currently work on.
 ---
-<img class="ui medium right floated rounded image" src="../images/isec-home.png">
-<img class="ui medium right floated rounded image" src="../images/past-conf.png">
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/isec-home.png">
-  <img class="ui image" src="../images/past-conf.jpg">
-</div>
+
+<img class="ui image" src="{{ site.baseurl }}/images/past-conf.png">
 
 
 The International Structural Engineering and Construction \[ISEC] Society is a journal/publication. They publish research papers of many different topics and hold semi-annual conferences where authors who have had their works published can present their works. There is a system in place for authors to submit their abstracts which will be reviewed and potentially accepted, in which case authors can submit the full manuscript for review. A new branch of the website is created after each conference, where the publications are viewable.

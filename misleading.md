@@ -9,7 +9,7 @@ labels:
   - Programming Languages
 ---
 
-Maybe it's unfair to call Javascript's name misleading: a quick google search reveals that the relationship between Javascript and ECMAscript (its "parent") is... muddy at best. Much like spoken languages, it is hard to nail down exactly what makes a new language (in this case, two dialects become distinct languages once speakers of the dialects can no longer understand each other). Well, the definition used for spoken language doesn't carry over to programming/scripting languages very well. You could make a fair argument that that definition would imply c, c++, java, and python are simply dialects of each other since "speakers" of one can reasonably understand the others.
+Maybe it's unfair to call Javascript's name misleading: a quick google search reveals that the relationship between Javascript and ECMAscript (its "parent") is... muddy at best. Much like spoken languages, it is hard to nail down exactly what makes a new language (in that case, two dialects become distinct languages once speakers of the dialects can no longer understand each other). Well, the definition used for spoken language doesn't carry over to programming/scripting languages very well. You could make a fair argument that that definition would imply that c, java, and python are simply dialects of each other since "speakers" of one can reasonably understand the others.
 
 ### Back to the title then
 

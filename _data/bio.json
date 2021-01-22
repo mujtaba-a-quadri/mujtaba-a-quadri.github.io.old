@@ -46,38 +46,38 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Programming Languages",
       "level": "",
       "keywords": [
         "C",
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "PHP"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Tools/OS",
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Windows",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Microsoft Office"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science: Data Science (expected Spring, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-08-26",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
+      "gpa": "3.98",
+      "courses": ["ICS 111, 211, 212",
+                  "MATH 301, 307, 372"
+                  "ICS 311, 314 (currently)",
       ]
     }
   ],

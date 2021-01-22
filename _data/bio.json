@@ -77,8 +77,8 @@
       "endDate": "Present",
       "gpa": "3.98",
       "courses": ["ICS 111, 211, 212",
-                  "MATH 301, 307, 372"
-                  "ICS 311, 314 (currently)",
+                  "MATH 301, 307, 372",
+                  "ICS 311, 314 (currently)"
       ]
     }
   ],

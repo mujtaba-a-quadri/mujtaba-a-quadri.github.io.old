@@ -10,11 +10,9 @@ labels:
   - goals
 ---
 
-<img class="ui medium left floated image" src="../images/rtfm.png">
-
 ## Is there such thing as a stupid question?
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+After reading Eric Steven Raymond and Rick Moen's essay [*How to Ask Questions the Smart Way*]http://catb.org/~esr/faqs/smart-questions.html which is a long write up of how to formulate good questions to ask hackers and developers on online forums, chat rooms, or through email; I realized how similar the guidelines were to SMART goals.
 
 ## What’s a smart question?
 

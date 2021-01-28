@@ -12,7 +12,7 @@ labels:
 
 ## Is there such thing as a stupid question?
 
-After reading Eric Steven Raymond and Rick Moen's essay [*How to Ask Questions the Smart Way*]http://catb.org/~esr/faqs/smart-questions.html which is a long write up of how to formulate good questions to ask hackers and developers on online forums, chat rooms, or through email; I realized how similar the guidelines were to SMART goals.
+After reading Eric Steven Raymond and Rick Moen's essay [*How to Ask Questions the Smart Way*](http://catb.org/~esr/faqs/smart-questions.html) which is a long write up of how to formulate good questions to ask hackers and developers on online forums, chat rooms, or through email; I realized how similar the guidelines were to SMART goals.
 
 ## What’s a smart question?
 

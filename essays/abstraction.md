@@ -16,17 +16,21 @@ Maybe it seems incorrect to label abstraction as the opposite of decomposition, 
 
 ### What Does This Have to do With Software?
 Well I'm glad I asked. Everything we do on a computer is on top of layers and layers of abstraction. You can peel back those layers- say by using a command line. That probably peels back one layer of abstraction, but definitely not even close to all of them. Most people won't even go that far, there's no need for them: if it works, it works. And that's not a bad mindset to have, the reason we built these layers of abstraction is so that we aren't all constantly getting a headache. Imagine if we didn't have modern programming languages, and we wrote everything in assembly. And even *that* is still relying on levels of abstraction. As I said at the start, I'm still only a few years into programming so I hope to get more experience so that I can more fully understand how everything fits together (and not just an abstraction of everything, like right now). 
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+    
+     
 Like down here!

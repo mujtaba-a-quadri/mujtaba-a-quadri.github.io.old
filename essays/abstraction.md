@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: But What is a log base 2 Abstraction?
+title: But What is an Abstraction?
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-21
 labels:

@@ -1,45 +1,27 @@
 ---
 layout: essay
 type: essay
-title: !
+title: something interesting here
 # All dates must be YYYY-MM-DD format!
 date: 2021-02-11
 labels:
-  - ,
-  - *
-  - .
+  - coding style
+  - readability
+  - collaboration 
 ---
 
 ## I have a confession to make
 
-I thought coding standards were pretty much useless. I never used them in my code I wrote for myself, and I didn't have to start using one until a class required it. All it felt like it was doing was making code take twice as long to write (as I comb through it to make it adhere to the guidelines). 
+I thought coding standards were pretty much useless. I never used them in my code I wrote for myself, and I didn't have to start using one until a class required it. it felt to me as if all it was doing was making code take twice as long to write (as I comb through it to make it adheres to the guidelines). It also wasn't fun typing a single line and having my IDE scream bloody murder with the amount of warnings I'd recieve. It simply felt like needless busywork to me.
 
 ## But then...
 
-I started to actually have to work on other people's code. All of a sudden, I'm reading files (not unlike the ones I wrote myself with no coding standard) which seem to have no rhyme or reason. One letter variable names all over the place, functions I cannot decipher due to 0 commenting, and files with a line count surpassing the current year.
+I started to actually have to work on other people's code. All of a sudden, I'm reading files (not unlike the ones I wrote myself with no coding standard) which seem to have no rhyme or reason. One letter variable names all over the place, functions I cannot decipher due to 0 commenting, and files with a line count surpassing the current year. It was almost comical: how nonsensical code can look at first glance if not written neatly.
 
-## Example of a "bad" question
+## Now...
 
-[This question](https://stackoverflow.com/questions/65930525/error-converting-result-java-lang-nullpointerexception-and-json-parser-error-pa) at first appears to be quite similar to my example of a good, small, specific question, its first line reads:
+Well, it's still true that following a coding standard certainly doesn't make writing code faster. But the bit of extra time you put in on your end will save the next person reading that code (or even yourself, later) hours in trying to decipher what looks like gibberish. I definitely recognize the real benefits of implementing some sort of coding standard, especially for larger scale projects, it seems almost necessary. 
 
-```
-I keep getting the following error in my logcat whenever
-i try to click on "login" or "signup" on my virtual device
-<long error message ommitted for length>
-```
-
-This is all reasonable, but it takes more than one line to make a good question (unless the question is rather simple). After this introduction the author should take time to talk about what he has tried, and what he was able to gather from his error message and research. But after reading past the first line (or reading the title), many red flags from the essay come up. First of all, the title is so long that it gets cut off by stack overflow, the title is just the long error message that is already pasted into the body. No one is going to read that title and think "I want to help this person". The author then committs the biggest cardinal sin of asking for help online: showing that they did no research on the topic themself, and instead simply dumping their source code for someone else to painstakingly comb through. The post does not even ask a direct question; it simply states the error is happening and dumps the code on you. That's bad enough, but they don't just dump one long function on the reader, they take it one step further by pasting the body of *three* different files. Just to recap, the entire body of this author's question is:
-
-```
-I keep getting the following error in my logcat whenever
-i try to click on "login" or "signup" on my virtual device
-<long error message>
-Please help!
-<entire body of 3 files>
-
-```
-
-Unsurprisingly, the author has not yet gotten a response. 
 
 ## Example of a SMART question
 

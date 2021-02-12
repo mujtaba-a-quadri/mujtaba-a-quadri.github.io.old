@@ -26,17 +26,20 @@ Well, it's still true that following a coding standard certainly doesn't make wr
 ## What about for the individual coder?
 
 While I think it is practically necessary and fully agreed upon to have a coding standard in place for code that others will read and maintain, it gets more blurry when someone is working alone. In this case, I think people would generally be more lax, even though it's definitely still a real concern that your code will be illegible to yourself in a few months or years. I often am not very strict on coding standard when working alone, but the habits you pick up from following a coding standard will make your code generally more readable, even if you tend to ignore minute things like having extra blank lines where they needn't be.
- 
- ⠀
- ⠀
- ⠀
-⠀
-⠀
-⠀
-⠀
-⠀
-⠀
-⠀
-⠀
-⠀
-Like down here!
+
+<br>
+<br\>
+<br/>
+</br>
+<br>
+<br\>
+<br/>
+</br>
+<br>
+<br\>
+<br/>
+</br>
+<br>
+<br\>
+<br/>
+</br>

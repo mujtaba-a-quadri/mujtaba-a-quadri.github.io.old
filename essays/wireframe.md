@@ -12,9 +12,9 @@ labels:
 ---
 
 
-## “Well okay, duh”
+## “Well, duh”, you say
 
-I hear you say. Well I don’t think that the difficulties of UI design are apparent as an outsider looking in. You look at all these big name webpages and their websites look clean and sleek, without a blemish. It can’t be that hard right? I mean, you could probably mock up something very similar looking in photoshop in a few minutes. 
+Well I don’t think that the difficulties of UI design are apparent as an outsider looking in. You look at all these big name webpages and their websites look clean and sleek, without a blemish. It can’t be that hard right? I mean, you could probably mock up something very similar looking in photoshop in a few minutes. 
 
 But that overlooks a lot of the process behind a website, there’s a reason it “feels” sleek and clean, it’s been carefully made, remade, and refined. A lot of thought gets put into these abstract ideas that we can’t even really articulate. What does it mean for a website to “feel” clean, or “modern”? That’s not even mentioning things like color theory and making a website feel cohesive and intuitive to use. I mean, look at an HTML page with little to no css (or bad css), it’s hard to look at compared to the great websites we have nowadays. 
 

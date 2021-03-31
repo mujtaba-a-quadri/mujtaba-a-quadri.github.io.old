@@ -24,8 +24,9 @@ We want to make a UH calendar, where users can "subscribe" to their classes, so 
 - Home page with prompt to log in
 - Sign in/Sign up page
 - Landing page with clickable cards for each class
-- Specific calendars for each class 
-- General calendar with all classes
+- Calendar pages
+ - Specific calendars for each class
+ - General calendar with all classes 
 
 # 3. Use case ideas
 - Create an ics 314, section 01 class

@@ -26,7 +26,7 @@ Finding these good software design patterns and distilling them down into what m
 
 In my team’s [GitClubs](https://uhm-gitclubs.github.io/) project, we implemented a few design patterns. This project was built with Meteor, so the design patterns implicit in Meteor and Javascript are present here. These include the following design patterns: prototype, observer, MVC, and front controller. Specific to our project and not implicit to Meteor and JS, we used the singleton design patterns.
 
-#### Design patterns in Meteor and JS
+#### Meanings
 * Prototype - this is used in object oriented languages, instead of creating new objects in a class, we simply clone the original object, this is how all object orientation works in JS
 * Observer - This is when the server (the “subject”) will update the users (called “observers”) on any changes in data as they occur, rather than only doing it on a new request. This is what allows Meteor to have reactive data without refreshing pages.
 * Model-view-controller (MVC) - This is when the program and its logic are split into three categories

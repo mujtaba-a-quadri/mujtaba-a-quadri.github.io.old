@@ -24,7 +24,7 @@ Finding these good software design patterns and distilling them down into what m
 
 ## Patterns in GitClubs
 
-In my team’s (GitClubs)[https://uhm-gitclubs.github.io/] project, we implemented a few design patterns. This project was built with Meteor, so the design patterns implicit in Meteor and Javascript are present here. These include the following design patterns: prototype, observer, MVC, and front controller. 
+In my team’s (GitClubs)[https://uhm-gitclubs.github.io/] project, we implemented a few design patterns. This project was built with Meteor, so the design patterns implicit in Meteor and Javascript are present here. These include the following design patterns: prototype, observer, MVC, and front controller. Specific to our project and not implicit to Meteor and JS, we used the singleton design patterns.
 
 #### Design patterns in Meteor and JS
 * Prototype - this is used in object oriented languages, instead of creating new objects in a class, we simply clone the original object, this is how all object orientation works in JS
@@ -33,6 +33,5 @@ In my team’s (GitClubs)[https://uhm-gitclubs.github.io/] project, we implement
     * The model contains the database usually, and also handles logic.
     * The view is what the user sees and interacts with; the user interface
     * The controller is how the user’s interactions are processed and handled as commands for the other two components.
-* Front controller - this is where all requests to the server are handled by one handler. In meteor, this is the App component.
-
-As for design patterns specific to our project and not implicit to Meteor and JS, we used the singleton and factory design patterns. The singleton design pattern was used for our database schemas, which were singleton javascript classes. The factory design pattern was used for our react components, we define them and then use them in multiple places.
+* Front controller - this is where all requests to the server are handled by one handler. In meteor, this is the router package used (we used react router).
+* Singleton - this is when a class is instantiated only once. We used this for our mongo databases/schemas, which were singleton javascript classes. 

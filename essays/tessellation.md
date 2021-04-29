@@ -24,7 +24,7 @@ Finding these good software design patterns and distilling them down into what m
 
 ## Patterns in GitClubs
 
-In my team’s (GitClubs)[https://uhm-gitclubs.github.io/] project, we implemented a few design patterns. This project was built with Meteor, so the design patterns implicit in Meteor and Javascript are present here. These include the following design patterns: prototype, observer, MVC, and front controller. Specific to our project and not implicit to Meteor and JS, we used the singleton design patterns.
+In my team’s [GitClubs](https://uhm-gitclubs.github.io/) project, we implemented a few design patterns. This project was built with Meteor, so the design patterns implicit in Meteor and Javascript are present here. These include the following design patterns: prototype, observer, MVC, and front controller. Specific to our project and not implicit to Meteor and JS, we used the singleton design patterns.
 
 #### Design patterns in Meteor and JS
 * Prototype - this is used in object oriented languages, instead of creating new objects in a class, we simply clone the original object, this is how all object orientation works in JS

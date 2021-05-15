@@ -23,4 +23,4 @@ This project taught me what building something in a framework is like. Before ma
 
 [Play the game yourself!](http://orteil.dashnet.org/experiments/idlegamemaker/?game=cLtYXVH0)
 ||
-[See the pastebin source code](https://pastebin.com/cLtYXVH0/)
+[See the pastebin source code](https://pastebin.com/cLtYXVH0)

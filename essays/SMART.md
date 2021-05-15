@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: SMART goals and SMART questions!
+title: SMART goals and SMART questions
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-27
 labels:

@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: SMART goals? No, wait; smart questions!
+title: S.M.A.R.T. goals and S.M.A.R.T. questions
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-27
 labels:
@@ -10,13 +10,11 @@ labels:
   - goals
 ---
 
-## What does any of that title mean?
-
-After reading Eric Steven Raymond and Rick Moen's essay [*How to Ask Questions the Smart Way*](http://catb.org/~esr/faqs/smart-questions.html), I realized how similar the guidelines were to SMART goals. The essay is a long write up of how to formulate good questions to ask hackers and developers on online forums, chat rooms, or through email. SMART goals are a general guideline for how to make effective goals, SMART is an acronym that describes good goals: specific, measureable, achievable, relevant, and timely. I thought the advice given in the essay was very similar and mirrored the ideas in the SMART goals acronym. 
+After reading Eric Steven Raymond and Rick Moen's essay [*How to Ask Questions the Smart Way*](http://catb.org/~esr/faqs/smart-questions.html), I realized how similar the guidelines were to S.M.A.R.T. goals. The essay is a long write up of how to formulate good questions to ask hackers and developers on online forums, chat rooms, or through email. S.M.A.R.T. goals are a general guideline for how to make effective goals, S.M.A.R.T. is an acronym that describes good goals: specific, measureable, achievable, relevant, and timely. I thought the advice given in the essay was very similar and mirrored the ideas in the S.M.A.R.T. goals acronym. 
 
 ## More Specifically...
 
-The SMART goals acronym in the most general sense is trying to stop you from making goals that are too big and open ended to act upon. Instead it guides you into making smaller (and probably multiple) goals which are more actionable. The essay on how to ask questions follows a similar idea. It tries to steer you away from asking questions that are too open ended and general, and really get to the heart of what you are asking. Rather than asking "How do I implement [insert complicated feature here]?" you should start working on that feature and ask a more specific and smaller question that comes up along the way, like "X issue is coming up when I do Y on Z, what am I doing wrong?". 
+The S.M.A.R.T. goals acronym in the most general sense is trying to stop you from making goals that are too big and open ended to act upon. Instead it guides you into making smaller (and probably multiple) goals which are more actionable. The essay on how to ask questions follows a similar idea. It tries to steer you away from asking questions that are too open ended and general, and really get to the heart of what you are asking. Rather than asking "How do I implement [insert complicated feature here]?" you should start working on that feature and ask a more specific and smaller question that comes up along the way, like "X issue is coming up when I do Y on Z, what am I doing wrong?". 
 
 ## Example of a "bad" question
 
@@ -41,7 +39,7 @@ Please help!
 
 Unsurprisingly, the author has not yet gotten a response. 
 
-## Example of a SMART question
+## Example of a S.M.A.R.T. question
 
 [This](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely) is a great example of a succinct, helpful question. It gets straight to the point right from the title and the author has the courtesy of showing what they tried themselves before asking:
 

@@ -22,7 +22,9 @@ For the project, I mostly worked on the “create club” form, which was also t
 
 I learned a lot from this experience as it was one of my first full stack projects. Since we were working in a group setting we used agile project management, this was the first time I followed any sort of project management guidelines. I learned how important it is to have constant meetings when things are constantly changing, and how useful version control is for the same reason. I learned how important communication is for figuring out the big picture on a project and how everyone's pieces will fit together.
 
-[See the GitHub organization](https://github.com/uhm-gitclubs) || [See the project homepage](https://uhm-gitclubs.github.io/)
+[See the GitHub organization](https://github.com/uhm-gitclubs) 
+||
+[See the project homepage](https://uhm-gitclubs.github.io/)
 
 
 

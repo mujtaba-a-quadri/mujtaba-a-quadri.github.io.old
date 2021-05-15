@@ -26,11 +26,11 @@ Version control is a way of backing up a codebase as it is worked on and changes
 
 Coding standards are a set of guidelines for writing code one chooses to follow. These guidelines intend to make code easier to read and make the intent of the writer clear. They stop the writer from doing redundant or unnecessary things. They also make the code easier for the writer to read on a second inspection, as with time code runs the risk of being unintelligible even to the writer.
 
-### Design Patterns
+### Project Management
 
-Design patterns are different ways of breaking down project management. These can be useful for a wide range of types of projects, and there are many different approaches. A team can adopt a blueprint fitting the number of members and how they best work. It is important when following a design pattern however to be open to change and seeing what works and what doesn’t, after all: that’s how design patterns form in the first place. 
+There are many different ways of breaking down project management. These can be useful for a wide range of types of projects, as there are many different approaches. A team can adopt a blueprint fitting the number of members and how they best work. It is important when following a pattern however to be open to change and seeing what works and what doesn’t, after all: that’s how these patterns formed in the first place. 
 
 ### In closing 
 
-Of course: it is possible to ignore all of these, opting to design a project using minimal tools and technologies. One could opt to use a simple text editor and constantly overwrite the same files when changes are made with no backups. These 4 pillars of software engineering are roughly ordered in terms of how big a project has to get before they become useful. So a development environment should almost always be used (perhaps you wouldn’t need one for a single file program). Then version control should be used as the project scales. Coding standards become very important when others work on the same project or it is a long term project. And finally design patterns are most useful for bigger projects with multiple people constantly working.
+Of course: it is possible to ignore all of these, opting to design a project using minimal tools and technologies. One could opt to use a simple text editor and constantly overwrite the same files when changes are made with no backups. These 4 pillars of software engineering are roughly ordered in terms of how big a project has to get before they become useful. So a development environment should almost always be used (perhaps you wouldn’t need one for a single file program). Then version control should be used as the project scales. Coding standards become very important when others work on the same project or it is a long term project. And finally project management patterns are most useful for bigger projects with multiple people constantly working.
 

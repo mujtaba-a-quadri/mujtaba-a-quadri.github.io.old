@@ -1,6 +1,6 @@
 ---
 layout: project
-type: project
+type: donotshow
 image: images/cupcake-game.png
 title: Cupcake Game
 permalink: projects/cupcake

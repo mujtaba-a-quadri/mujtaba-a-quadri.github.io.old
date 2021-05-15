@@ -14,7 +14,7 @@ labels:
 summary: My team of 5 developed a club directory website for our ICS 314 final project.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/gitclubs.png">
+<img class="ui large right floated rounded image" src="../images/gitclubs.png">
 
 For our final project in ICS 314, we split into groups and were tasked with building a web application using the software engineering concepts we learned throughout the semester. The project was built mostly with JavaScript, and uses a Meteor, Mongo, React, Semantic UI stack. 
 

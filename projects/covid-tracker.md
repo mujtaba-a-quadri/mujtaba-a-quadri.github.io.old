@@ -20,7 +20,7 @@ A lot of the work I did on this app had to do with Dates, specifically the JavaS
 
 <img class="ui large right floated rounded image" src="../images/covid-tracker-form.png">
 
-The most important addition I made to the application was the Add Vaccine form/page (pictured on the right) and Vaccine Record table under List Status. This required a new table in the database and was a rather involved form due to all the information required for a vaccine. Displaying the information was also tricky, especially in the outlier case of the Johnson & Johnson vaccine which has no second dose, so the date of the second dose displayed needed to be N/A. 
+The most important addition I made to the application was the Add Vaccine form/page (pictured on the right) and Vaccine Record table under List Status. This required a new table in the database and was a rather involved form due to all the information required for a vaccine. Though I did not work on the functionality that allowed users to submit a picture of their vaccine card, I created the rest of the form. Displaying the information was also tricky, especially in the outlier case of the Johnson & Johnson vaccine which has no second dose, so the date of the second dose displayed needed to be N/A. 
 
 The experience developing this application taught me a lot. As stated, a lot of the work I did involved dates in some capacity, so I gained a lot of familiarity with the format of JavaScript dates. I also took somewhat of a leadership position on this project, helping to think of and divide tasks. So I learned a lot in that respect too, figuring out how to divide up the development of the app into tasks an individual could take on.
 

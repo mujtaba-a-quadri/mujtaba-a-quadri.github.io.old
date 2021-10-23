@@ -23,11 +23,11 @@ They can also create and join groups from this page, leading them to the group p
 
 For this project, I helped plan the database structure and created most of the collections (tables) in it. This was important because there were many relations we needed to display all the info we wanted. For example, users need to see all the groups they are a part of, but group pages also need to display all of the users in the group. We had a couple [many-to-many](https://en.wikipedia.org/wiki/Many-to-many_(data_model)) relationships like this and as such had to plan out join tables. 
 
-<img style="width: 80%" class="ui large right floated rounded image" src="../images/CreateHangoutOptions.png">
+<img style="width: 40%" class="ui large right floated rounded image" src="../images/CreateHangoutOptions.png">
 
 My other primary contribution was the create hangout form and hangouts table. Clicking on a date on the group page displays a form to create a new hangout. This form prompts you to choose a time (selected from a dropdown which tells you who will be available at each time) and enter a name and description for the hangout. This info is then put into the hangouts table in the group, for all in the group to see. 
 
-<img style="width: 80%" class="ui large right floated rounded image" src="../images/CreateHangoutWarning.png">
+<img style="width: 40%" class="ui large right floated rounded image" src="../images/CreateHangoutWarning.png">
 
 I also had the form display a warning when too many (>10) would be available for a hangout. Unfortunately this feature broke the morning that the hackathon ended as we had the site refresh on submit of the forms (making it impossible to create a hangout with >10 people). Maybe that's better anyways, we could've gotten in trouble; promoting hangouts of more than 10 people.
 

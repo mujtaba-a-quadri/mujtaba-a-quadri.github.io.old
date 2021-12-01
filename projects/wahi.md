@@ -20,7 +20,7 @@ summary: Our team of five's submission for the 2021 Hawaii Annual Code Challenge
 
 For the [2021 HACC](https://hacc.hawaii.gov/) my group took on the challenge of implementing a marine life reporting & sighting app. Hawaii Marine Animal Reponse (HMAR) desired an app to help managing the large amount of reports they get (all through a phone line) for sightings of endangered species of birds, seals, and turtles.
 
-<img style="width: 25%" class="ui large right floated rounded image" src="../images/AppHome.jpeg">
+<img style="width: 35%" class="ui large right floated rounded image" src="../images/AppHome.jpeg">
 
 ## The App
 

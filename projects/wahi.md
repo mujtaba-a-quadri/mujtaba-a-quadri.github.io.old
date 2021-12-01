@@ -20,7 +20,7 @@ summary: Our team of five's submission for the 2021 Hawaii Annual Code Challenge
 
 For the [2021 HACC](https://hacc.hawaii.gov/) my group took on the challenge of implementing a marine life reporting & sighting app. Hawaii Marine Animal Reponse (HMAR) desired an app to help managing the large amount of reports they get (all through a phone line) for sightings of endangered species of birds, seals, and turtles.
 
-<img style="height: 50%" class="ui small right floated rounded image" src="../images/AppHome.jpeg">
+<img style="width: 25%" class="ui large right floated rounded image" src="../images/AppHome.jpeg">
 
 ## The App
 
@@ -32,7 +32,7 @@ Our implementation has a mobile app for beach-goers to submit a form for any sig
 For this app, I primarily worked on the Latest Reports and Confirm Sightings pages. The latest reports page shows all reports that users have submitted through the app, in reverse chronological order. Each row has the important info on a sighting, and a field to indicate if the report has been "Checked" and is no longer of concern. Unchecked reports can be edited or deleted by clicking on the animal type, and appear at the top of the sorting regardless of date.
 
 <br/>
-<img style="width: 50%" class="ui large left floated rounded image" src="../images/ConfirmRelated.png">
+<img style="width: 50%" class="ui large right floated rounded image" src="../images/ConfirmRelated.png">
 
 The confirm related/related sightings page has a similar view, with rows of sightings in a table displaying the important info. These sightings are in groups (with alternating colors) that were detected as being similar to each other (due to factors like location or time being very similar). HMAR wanted a way to cut down on the number of duplicate reports they get, so this page allows an HMAR volunteer to distinguish at a glance whether a group of reports are the same or not. If they decide the group of reports are not actually the same sighting, they can click no, in which case the sightings will be confirmed as distinct and seperated into two rows in the Latest Reports page. Otherwise, the sightings will be grouped together as one row on the Latest Reports page.
 

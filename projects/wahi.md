@@ -27,10 +27,10 @@ For the [2021 HACC](https://hacc.hawaii.gov/) my group took on the challenge of 
 Our implementation has a mobile app for beach-goers to submit a form for any sightings they make, with all the relevant information that HMAR volunteers need about the sighting. This data is then displayed on our webview which is exclusively for use of HMAR staff and volunteers to view reports of sightings.
 
 
-<img style="width: 50%" class="ui large right floated rounded image" src="../images/LatestReports.png">
 
 For this app, I primarily worked on the Latest Reports and Confirm Sightings pages. The latest reports page shows all reports that users have submitted through the app, in reverse chronological order. Each row has the important info on a sighting, and a field to indicate if the report has been "Checked" and is no longer of concern. Unchecked reports can be edited or deleted by clicking on the animal type, and appear at the top of the sorting regardless of date.
 
+<img style="width: 50%" class="ui large rounded image" src="../images/LatestReports.png">
 <br/>
 <img style="width: 50%" class="ui large right floated rounded image" src="../images/ConfirmRelated.png">
 

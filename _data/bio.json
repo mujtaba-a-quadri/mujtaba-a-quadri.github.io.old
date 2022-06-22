@@ -6,7 +6,7 @@
     "email": "mujtabaq@hawaii.edu",
     "phone": "808-800-6709",
     "website": "https://mujtaba-a-quadri.github.io",
-    "summary": "I am a sophomore studying for a B.S. in Computer Science specializing in Data Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in the Spring of 2023.",
+    "summary": "I'm a senior studying for a B.S. in Computer Science at the University of Hawaii at Manoa. I expect to graduate in the fall of 2022.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -49,18 +49,22 @@
       "name": "Languages",
       "level": "",
       "keywords": [
-        "C",
+        "Python",
+        "Javascript",
+        "PHP",
         "C++",
         "Java",
-        "Javascript",
-        "PHP/HTML/CSS",
-        "MySQL"
+        "HTML/CSS",
+        "MySQL",
+        "MongoDB"
       ]
     },
     {
       "name": "Tools/OS",
       "level": "",
       "keywords": [
+        "React",
+        "Meteor",
         "MacOS",
         "Windows",
         "Git/GitHub",
@@ -71,13 +75,15 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science: Data Science (expected Spring, 2023)",
+      "area": "Computer Science: Data Science (expected Fall, 2022)",
       "studyType": "B.S.",
       "startDate": "2019-08-26",
       "endDate": "Present",
       "gpa": "3.98",
-      "courses": ["ICS 111, 211, 212, 311, 314",
-                  "MATH 301, 307, 372",
+      "courses": ["Worked on multiple full-stack class projects including participating in 2 hackathons",
+                  "Manoa Dean’s List every semester",
+                  "Created and moderated multiple class Discords during the online semesters of classes",
+                  "President of PandA (Programming and Algorithms) club"
       ]
     }
   ],
@@ -90,8 +96,10 @@
       "endDate": "Present",
       "summary": "Independent contractor, working on ISEC website and providing IT support",
       "highlights": [
-        "Maintaining and adding to an actively used website",
-        "Working on a large code-base"
+        "LAMP (Linux, Apache, MySQL, PHP) tech stack",
+        "Hundred-thousand-line legacy code base with little documentation",
+        "Interfacing with non-tech-fluent admin team on programming tasks",
+        "Training new developer for work on the site"
       ]
     }
   ],

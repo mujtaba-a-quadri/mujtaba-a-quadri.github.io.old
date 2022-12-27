@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: donotshow
+type: doNotShow
 title: Javascript has a Misleading Name
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-21

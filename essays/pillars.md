@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: essay
+type: doNotShow
 title: "Tools of the trade: Software Engineering"
 date: 2021-05-14
 labels:

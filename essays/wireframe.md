@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: donotshow
+type: doNotShow
 title: UI is Hard to Design
 # All dates must be YYYY-MM-DD format!
 date: 2021-02-24

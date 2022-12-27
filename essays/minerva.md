@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: essay
+type: doNotShow
 title: "Software Engineering: The Sequel"
 date: 2021-12-14
 labels:

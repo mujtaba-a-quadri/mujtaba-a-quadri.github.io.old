@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: essay
+type: doNotShow
 title: My Journey With Coding Standards
 # All dates must be YYYY-MM-DD format!
 date: 2021-02-11

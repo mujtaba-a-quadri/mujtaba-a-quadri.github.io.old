@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: essay
+type: doNotShow
 title: "Emerge, Refine, Implement"
 date: 2021-04-28
 labels:

@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Mujtaba Quadri",
-    "label": "Student",
+    "label": "Alumni",
     "picture": "https://mujtaba-a-quadri.github.io/images/mujtaba-a-quadri.PNG",
     "email": "mujtabaq@hawaii.edu",
     "phone": "808-800-6709",
     "website": "https://mujtaba-a-quadri.github.io",
-    "summary": "I'm a senior studying for a B.S. in Computer Science at the University of Hawaii at Manoa. I expect to graduate in the fall of 2022.",
+    "summary": "I'm a recent graduate from UH Manoa with a BS in Computer Science.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -74,20 +74,33 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science: Data Science (expected Fall, 2022)",
-      "studyType": "B.S.",
+      "institution": "University of Hawai'i, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "BS",
       "startDate": "2019-08-26",
-      "endDate": "Present",
+      "endDate": "2022-12-17",
       "gpa": "3.98",
-      "courses": ["Worked on multiple full-stack class projects including participating in 2 hackathons",
-                  "Manoa Dean’s List every semester",
-                  "Created and moderated multiple class Discords during the online semesters of classes",
+      "courses": ["Graduated with summa cum laude distinction and a 3.98/4.00 GPA; UH Mānoa Dean’s List every semester",
+                  "Worked on multiple full-stack class projects including participating in 2 hackathons",
+                  "Created and moderated multiple Discords for online classes, facilitating study groups and peer discussions.",
                   "President of PandA (Programming and Algorithms) club"
       ]
     }
   ],
   "work": [
+    {
+      "company": "Hawai'i Department of Taxation",
+      "position": "System Programmer",
+      "website": "https://tax.hawaii.gov/",
+      "startDate": "2022-07-01",
+      "endDate": "2022-12-16",
+      "summary": "Developing alongside a team of Hawai'i government employees and contracted FAST Enterprises employees on the internal GenTax website and the public DOTAX tax.hawaii.gov website.",
+      "highlights": [
+        "Worked on the 2022 Year-End Changes project, updating many forms and parts of the site for 2023.",
+        "Collaborated with the team for multiple passes of end-to-end testing of the system and changes.",
+        "Regular meetings with management discussing progress, prioritization, and requirements for tasks."
+      ]
+    },
     {
       "company": "ISEC Society",
       "position": "Full Stack Developer",
@@ -102,6 +115,7 @@
         "Training new developer for work on the site"
       ]
     }
+
   ],
 
   "references": [
